@@ -13,7 +13,7 @@ const AllAssessments = props => {
 		return (
 			<>
 				<div
-					style={{ backgroundImage: "url('src/assets/allAssessmentsBG.JPG')", borderColor: index !== activeIndex ? "#FFFFFF" : "#8C52FF" }}
+					style={{ backgroundImage: "url('/assets/allAssessmentsBG.JPG')", borderColor: index !== activeIndex ? "#FFFFFF" : "#8C52FF" }}
 					className="w-[48%] h-[200px] mt-5 rounded-lg shadow-slate-200 shadow-lg bg-right-bottom bg-cover cursor-pointer border-2 hover:border-[#8C52FF] transition duration-500 relative">
 					<img
 						src={imgURL}
