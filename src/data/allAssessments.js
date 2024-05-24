@@ -1,39 +1,39 @@
 const allAssessements = [
 	{
 		text: "Quizzes",
-		imgURL: "src/assets/quizzes.jpg",
+		imgURL: "/assets/quizzes.JPG",
 		description: [],
 	},
 	{
 		text: "Coding",
-		imgURL: "src/assets/coding.jpg",
+		imgURL: "/assets/coding.JPG",
 		description: [
 			{
 				text: "Coding Problems",
-				imgURL: "src/assets/codingProblems.jpg",
+				imgURL: "/assets/codingProblems.JPG",
 			},
 			{
 				text: "100 Days DSA Sprint",
-				imgURL: "src/assets/100DaysDSASprint.jpg",
+				imgURL: "/assets/100DaysDSASprint.jpg",
 			},
 			{
 				text: "Coding Assessments",
-				imgURL: "src/assets/codingAssessments.jpg",
+				imgURL: "/assets/codingAssessments.JPG",
 			},
 			{
 				text: "Coding Trivia",
-				imgURL: "src/assets/codingTrivia.jpg",
+				imgURL: "/assets/codingTrivia.JPG",
 			},
 		],
 	},
 	{
 		text: "Case Study",
-		imgURL: "src/assets/caseStudy.jpg",
+		imgURL: "/assets/caseStudy.jpg",
 		description: [],
 	},
 	{
 		text: "Product Teardown",
-		imgURL: "src/assets/productTeardown.jpg",
+		imgURL: "/assets/productTeardown.jpg",
 		description: [],
 	},
 ];

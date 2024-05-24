@@ -7,7 +7,7 @@ const Navbar = () => {
 		<div className="flex justify-between items-center h-12 border-b border-b-gray-300 bg-white sticky top-0 z-40 shadow-md">
 			<div className="h-9 ml-5">
 				<img
-					src={"src/assets/logo.JPG"}
+					src={"/assets/logo.JPG"}
 					className="h-full"
 				/>
 			</div>
@@ -22,7 +22,7 @@ const Navbar = () => {
 				<div className="h-8 px-5 flex items-center justify-between gap-3 rounded-full border border-gray-400 cursor-pointer">
 					<span className="font-semibold text-gray-500">Menu</span>
 					<img
-						src={"src/assets/menuLogo.JPG"}
+						src={"/assets/menuLogo.JPG"}
 						className="h-[70%]"
 					/>
 				</div>
